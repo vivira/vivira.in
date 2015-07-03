@@ -1,0 +1,40 @@
+/*
+  Based on HTML5 Boilerplate v5.2.0 | MIT License | https://html5boilerplate.com/
+  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+*/
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+::-moz-selection {
+    background: #FBDB00;
+    text-shadow: none;
+}
+
+::selection {
+    background: #FBDB00;
+    text-shadow: none;
+}
+
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+/** Set the backgrounds for the different sections **/
+.header-area {
+    background-color: #ffffff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    min-height: 120px;
+}
+
+.hero {
+    border: none;
+    background-color: #ffffff;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+    padding: 1rem;}
