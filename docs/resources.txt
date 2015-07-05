@@ -1,3 +1,9 @@
 Favicon generator: https://realfavicongenerator.net
 svg editor: http://petercollingridge.appspot.com/svg-editor
+static site generator: http://gohugo.io/
+hugo shortcodes: http://gohugo.io/extras/shortcodes/
+Hosting a Website on S3: http://www.programblings.com/2013/07/12/hosting-a-website-on-s3/
+Hugo deployments with Wercker: http://gohugo.io/tutorials/automated-deployments/
+frontend development: http://mixture.io/
+ghost themes: http://blog.lifeaweso.me/
 
