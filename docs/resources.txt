@@ -1,0 +1,3 @@
+Favicon generator: https://realfavicongenerator.net
+svg editor: http://petercollingridge.appspot.com/svg-editor
+

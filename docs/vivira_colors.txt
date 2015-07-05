@@ -1,0 +1,138 @@
+Vivira Colors
+==============
+
+Primary Colors
+==============
+005CCC
+7F5200
+CC8400
+
+Secondary Colors
+==============
+d9d9d9
+444444
+ffffff
+000000
+
+Blue Swatch
+==========
+0f1f99
+0939b2
+005ccc
+229be5
+33d3ff
+
+Lighter swatch
+==============
+005CCC
+3378cc
+6694cc
+99b0cc
+cccccc
+
+
+
+Additional Colors
+==================
+lemo  FBDB00
+Deep 12 0B090B
+Franklin Gothic EBF3F3
+na-da 4B554D
+Winamp FFBF00
+939183
+6B7F06
+D42715
+00408E
+
+
+
+
+Lemo:
+-------
+Dark :  c8af00ff
+Normal: fbdb00ff
+Light:  ffe42fff
+
+Orange:
+-------
+Dark :  e55800ff
+Normal: ff7119ff
+Light:  ff904cff
+
+Chocolate:
+-------
+Dark :  4c3100ff
+Normal: 7f5200ff
+Light:  b27300ff
+
+Chameleon:
+-------
+Dark :  5b6b0aff
+Normal: 82990fff
+Light:  a9c714ff
+
+Swimming Pool: 
+--------------
+Dark :  004599ff
+Normal: 005cccff
+Light:  0073ffff
+
+
+Plum:
+-------
+Dark :  9300da
+Normal: b00eff
+Light:  c141ff
+
+strong scarlet red:
+-------
+Dark :  e51500 
+Normal: ff2e19
+Light:  ff5c4c
+
+
+Aluminum:
+-------
+Dark :  b4abab
+Normal: ccc6c6
+Light:  e4e1e1
+
+na-da:
+-------
+Dark :  333a34
+Normal: 4b554d
+Light:  637066
+
+
+
+
+
+
+
+#####  Color Palette by Paletton.com
+#####  Palette URL: http://paletton.com/#uid=33C0u0kwi++bu++hX++++rd++kX
+
+
+*** Primary color:
+
+   shade 0 = #157FFF = rgb( 21,127,255) = rgba( 21,127,255,1) = rgb0(0.082,0.498,1)
+   shade 1 = #ABD1FF = rgb(171,209,255) = rgba(171,209,255,1) = rgb0(0.671,0.82,1)
+   shade 2 = #7CB7FF = rgb(124,183,255) = rgba(124,183,255,1) = rgb0(0.486,0.718,1)
+   shade 3 = #00418E = rgb(  0, 65,142) = rgba(  0, 65,142,1) = rgb0(0,0.255,0.557)
+   shade 4 = #00326D = rgb(  0, 50,109) = rgba(  0, 50,109,1) = rgb0(0,0.196,0.427)
+
+*** Secondary color (1):
+
+   shade 0 = #FFC700 = rgb(255,199,  0) = rgba(255,199,  0,1) = rgb0(1,0.78,0)
+   shade 1 = #FFEBA4 = rgb(255,235,164) = rgba(255,235,164,1) = rgb0(1,0.922,0.643)
+   shade 2 = #FFE070 = rgb(255,224,112) = rgba(255,224,112,1) = rgb0(1,0.878,0.439)
+   shade 3 = #D9A900 = rgb(217,169,  0) = rgba(217,169,  0,1) = rgb0(0.851,0.663,0)
+   shade 4 = #A78200 = rgb(167,130,  0) = rgba(167,130,  0,1) = rgb0(0.655,0.51,0)
+
+*** Secondary color (2):
+
+   shade 0 = #FF5C00 = rgb(255, 92,  0) = rgba(255, 92,  0,1) = rgb0(1,0.361,0)
+   shade 1 = #FFC5A4 = rgb(255,197,164) = rgba(255,197,164,1) = rgb0(1,0.773,0.643)
+   shade 2 = #FFA470 = rgb(255,164,112) = rgba(255,164,112,1) = rgb0(1,0.643,0.439)
+   shade 3 = #D94E00 = rgb(217, 78,  0) = rgba(217, 78,  0,1) = rgb0(0.851,0.306,0)
+   shade 4 = #A73C00 = rgb(167, 60,  0) = rgba(167, 60,  0,1) = rgb0(0.655,0.235,0)
