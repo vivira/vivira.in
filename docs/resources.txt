@@ -6,4 +6,4 @@ Hosting a Website on S3: http://www.programblings.com/2013/07/12/hosting-a-websi
 Hugo deployments with Wercker: http://gohugo.io/tutorials/automated-deployments/
 frontend development: http://mixture.io/
 ghost themes: http://blog.lifeaweso.me/
-
+google maps wiget generator: http://maps-generator.com/
